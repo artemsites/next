@@ -10,5 +10,8 @@
       "title": "Test title id 2",
       "text": "Test2 Test2 Test2 Test2 Test2 Test2 Test2 Test2 Test2 Test2 Test2 Test2 Test2 Test2 Test2 Test2 Test2 Test2 Test2 Test2 Test2 Test2 Test2 Test2 Test2 Test2 Test2 Test2"
     }
-  ]
+  ],
+  "test": {
+    "title": "Тестовая страница из db.json"
+  }
 }

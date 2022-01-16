@@ -1,2 +1,1 @@
-Остановился 
-  https://youtu.be/_EOrSmjdOZQ?t=6574
+V https://youtu.be/_EOrSmjdOZQ
